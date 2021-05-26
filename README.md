@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![avatar](/assets/github.gif)
 <!--
 **Dreeam-qwq/Dreeam-qwq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
