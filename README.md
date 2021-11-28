@@ -3,6 +3,7 @@
 ![avatar](/assets/github.gif)
 
 [![Dreeam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dreeam-qwq)](https://github.com/anuraghazra/github-readme-stats)
+![Dreeam-qwq](https://count.getloli.com/get/@Dreeam-qwq)
 <!--
 **Dreeam-qwq/Dreeam-qwq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
