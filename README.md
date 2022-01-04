@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 🦄 I'm Dreeam
+- 🌱 I’m currently learning `Java`
+- 📫 Discord:  | QQ:
 
 ![avatar](/assets/github.gif)
 
