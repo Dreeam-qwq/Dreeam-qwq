@@ -1,13 +1,15 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋, I'm Dreeam</h1>
+<h3 align="center"></h3>
+
 - 🦄 I'm Dreeam
 - 🌱 I’m currently learning `Java`
 - 📫 Discord:  | QQ:
 
-![avatar](/assets/github.gif)
+<p align="center"><img align="center" src="/assets/github.gif"></p>
 
-[![Dreeam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dreeam-qwq)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Dreeam-qwq)](https://github.com/anuraghazra/github-readme-stats"></p>
 
-![Dreeam-qwq](https://count.getloli.com/get/@Dreeam-qwq)
+<p align="center"><img align="center" src="https://count.getloli.com/get/@Dreeam-qwq"></p>
 <!--
 **Dreeam-qwq/Dreeam-qwq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
