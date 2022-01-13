@@ -7,7 +7,7 @@
 
 <p align="center"><img align="center" src="/assets/github.gif"></p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Dreeam-qwq)](https://github.com/anuraghazra/github-readme-stats"></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Dreeam-qwq"></p>
 
 <p align="center"><img align="center" src="https://count.getloli.com/get/@Dreeam-qwq"></p>
 <!--
