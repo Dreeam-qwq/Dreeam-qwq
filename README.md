@@ -3,7 +3,7 @@
 
 - 🦄 I'm Dreeam
 - 🌱 I’m currently learning `Java`
-- 📫 Discord:  | QQ:
+- 📫 Discord: `Dreeam#0851` | QQ: `2682173972`
 
 <p align="center"><img align="center" src="/assets/github.gif"></p>
 
