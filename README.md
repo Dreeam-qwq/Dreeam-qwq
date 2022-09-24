@@ -2,7 +2,7 @@
 <h3 align="center"></h3>
 
 - 🦄 I'm Dreeam
-- 🌱 I’m currently learning `Java`
+- 🌱 I’m currently learning `Java`, `css`, `Python`.
 - 📫 Discord: `Dreeam#0851` | QQ: `2682173972`
 
 <p align="center"><img align="center" src="/assets/github.gif"></p>
